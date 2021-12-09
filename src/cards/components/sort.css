@@ -1,0 +1,41 @@
+.sortpopup__wrapper{
+    height: 100px;
+    width: 250px;
+    background: antiquewhite;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    /* margin: auto; */
+    margin-top: 10;
+    top: 54%;
+    left: 13%;
+}
+.sortpopup__block{
+    display: flex;
+    justify-content: center;
+}
+
+/* .menu{
+    background-color: rgb(15 37 53 / 88%);
+    position: fixed;
+}
+.menu.active{
+    transform: translateY(0);
+}
+.menu{
+    background-color: #120e01e6;
+    position: fixed;
+    width: 96%;
+    height:  88vh;
+    top: 60px;
+    border-radius: 30px;
+    right: 7px;
+    transform: translateY(-110%);
+    transition: all 0.4s;
+    transition: 0.3s;
+}
+.menu.active{
+    transform: translateY(0);
+    transition: 0.3s;
+} */
